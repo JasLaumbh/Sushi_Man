@@ -1,4 +1,4 @@
-# 🍣 Sakura Sushi - Restaurant Website
+# 🍣 Sushi Man - Restaurant Website
 
 A beautifully animated, responsive website for a fictional sushi restaurant called **Sushi Man**, built using HTML, CSS, and JavaScript. Perfect for showcasing menus, business details, and connecting with customers.
 
